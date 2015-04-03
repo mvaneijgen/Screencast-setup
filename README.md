@@ -15,4 +15,4 @@ Next on line `23` the script will sellect `row 4` for me this will select the `1
 
 This script will not work en retina Macbooks 
 
-#### If anyone needs help setting this up for their workspace just send in a issue. I will be pleased to help.
+##### If anyone needs help setting this up for their workspace just send in a issue. I will be pleased to help.

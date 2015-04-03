@@ -11,6 +11,8 @@ Next on line `23` the script will sellect `row 4` for me this will select the `1
 
 ![Screenshot resolution](http://i.imgur.com/LHw7hPn.jpg "Change the name of your screen. Mine is `SyncMaster`")
 
+I have this script bundeld in a Automator Application that opens my favorite Screencast Application. 
+
 ### Note
 
 This script will not work en retina Macbooks 
